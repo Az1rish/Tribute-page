@@ -21,3 +21,7 @@ body, html {
 	text-align: center;
 	padding-top: 50px;
 }
+.close {
+	align-content: right;
+}
+
